@@ -91,7 +91,7 @@ int main() {
     Bank bank;
 
     while (true) {
-        cout << "\nBank Management System Menu:" << endl;
+        cout << "\nBanking Application Menu:" << endl;
         cout << "1. Add Account" << endl;
         cout << "2. Display Accounts" << endl;
         cout << "3. Deposit Money" << endl;
